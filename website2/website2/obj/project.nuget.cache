@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oAmqpWV/knvoKNxv2z3VIWNWOnzxnMjELFvSKKQXxiA24GavVKrxBbTfI0ZbskxILKirQrqtCjCdxEXsc57LTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bhavi\\source\\repos\\website2\\website2\\website2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhavi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
